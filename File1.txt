@@ -1,8 +1,12 @@
  welcome to git!!
  change 1
  change 2
+<<<<<<< HEAD
 <<<<<<< Updated upstream
  complete for release
 =======
  change 3
 >>>>>>> Stashed changes
+=======
+ change 3 in File1
+>>>>>>> bug123
